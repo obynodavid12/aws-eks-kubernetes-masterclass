@@ -27,6 +27,7 @@ description: Learn AWS Load Balancer Controller - Ingress SSL
   - Choose the type of certificate for ACM to provide: Request a public certificate
   - Add domain names: *.yourdomain.com (in my case it is going to be `*.stacksimplify.com`)
   - Select a Validation Method: **DNS Validation**
+  - Select Key algorithm Info as RSA 2048
   - Click on **Confirm & Request**    
 - **Validation**
   - Click on **Create record in Route 53**  
