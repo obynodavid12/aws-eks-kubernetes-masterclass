@@ -32,7 +32,7 @@ description: Learn AWS Load Balancer Controller - Ingress SSL
 - **Validation**
   - Click on **Create record in Route 53**  
 - Wait for 5 to 10 minutes and check the **Validation Status**
-- Go to Route53 Hosted Zone and see the Record set created
+- Go to Route53 Hosted Zone to see the Record set created
 
 ## Step-04: Add annotations related to SSL
 - **04-ALB-Ingress-SSL.yml**
